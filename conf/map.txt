@@ -1,0 +1,28 @@
+# ベース
+index     =  mw_index.inc:mw_index index.tpl
+
+# キャラクタの削除
+clear_pc  = : .
+# 再作成確認
+remake_pc_conf  = : .
+
+# キャラを見る
+view_pc   = : .
+
+# 敵チョイス
+choice_monster = : .
+
+# 成長
+growth    = : .
+
+# お買い物
+buy_list = : .
+buy_fin = : .
+
+# 説明
+description = st.inc:st description.tpl
+account     = st.inc:st account.tpl
+
+# PC作成
+create_pc = : .
+
