@@ -4,6 +4,13 @@
 <head>
 <link rel="stylesheet" href="./css/base.css" type="text/css">
 <title>Dungeons and Towers Create PC</title>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5645089288102207",
+    enable_page_level_ads: true
+  });
+</script>
+
 </head>
 
 <body>
