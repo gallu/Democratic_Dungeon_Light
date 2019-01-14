@@ -188,8 +188,8 @@ public function calculate()
       list($a, $b) = explode('D', $i['damage']);
 
       // 足しこむ：武器の修正はスケールアップさせない
-      $dice += $a;
-      $correction += $b;
+      $dice += intval($a);
+      $correction += intval($b);
     }
 
     // 防御力修正
